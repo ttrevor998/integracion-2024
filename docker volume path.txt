@@ -1,4 +1,4 @@
 /*este archivo esta siendo modificado*/ 
 \\wsl$\docker-desktop-data\data\docker\volumes\wordpress2_wp_data\_data
-
+/*Lo que esté acá son comentarios*/
 put this in the file explorer adress bar
